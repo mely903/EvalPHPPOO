@@ -1,0 +1,19 @@
+{
+    "name": "mel/evalphppoo",
+    "description": "test php poo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mely",
+            "email": "melaniedargonne@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
